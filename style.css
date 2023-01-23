@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,300&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgba(220, 207, 207, 0.59);
+    color: rgb(9, 86, 117);
+    font-family: 'Pacifico' , cursive;
+    
+}
+h1{
+    font-size: 20px;
+    text-align: center;
+    font-weight: 400;
+    padding: 0 10px;
+    font-family: 'Ubuntu', sans-serif;
+    color: rgb(11, 11, 11);
+    /* font-family: 'Lato', sans-serif; */
+    padding-top: 5px;
+    /* border: 2px solid rgb(4, 87, 4); */
+    background-color: rgba(181, 146, 8, 0.835);
+
+}
+.img1{
+    width: 100%;
+    padding: 0 20px 0px 20px;
+}
+.img2{
+    width: 100%;
+    padding: 0 20px 0px 20px;
+}
+.img3{
+    width: 100%;
+    padding: 0 20px 0px 20px;
+}
+.img4{
+    width: 100%;
+    padding: 0 20px 0px 20px;
+}
+.img5{
+    width: 100%;
+    padding: 0 20px 0px 20px;
+}
+.img6{
+    width: 100%;
+    padding: 0 20px 0px 20px;
+}
+.img7{
+    width: 100%;
+    padding: 0 20px 0px 20px;
+}
+.img8{
+    width: 100%;
+    padding: 0 20px 0px 20px;
+}
+.img9{
+    width: 100%;
+    padding: 0 20px 0px 20px;
+}
+.img10{
+    width: 100%;
+    padding: 0 20px 0px 20px;
+}
+.img11{
+    width: 100%;
+    padding: 0 20px 0px 20px;
+}
+.img12{
+    width: 100%;
+    padding: 0 20px 0px 20px;
+}
+.img13{
+    width: 100%;
+    padding: 0 20px 0px 20px;
+}
+.para1{
+    padding: 20px;
+    text-align: center;
+    letter-spacing: 1.2px;
+}
+.para2{
+    padding: 20px;
+    text-align: center;
+    color: rgb(163, 57, 57);
+    letter-spacing: 1.2px;
+}
+.para3{
+    padding: 20px;
+    text-align: center;
+    letter-spacing: 1.2px;
+    color: rgb(105, 35, 196);
+}
+.para4{
+    padding: 20px;
+    text-align: center;
+    letter-spacing: 1.2px;
+    color: rgb(143, 26, 26);
+}
+.para5{
+    padding: 20px;
+    text-align: center;
+    letter-spacing: 1.2px;
+}
+
+.para6{
+    padding: 20px;
+    text-align: center;
+    letter-spacing: 1.2px;
+}
+.para7{
+    padding: 20px;
+    text-align: center;
+    letter-spacing: 1.2px;
+}
+.para8{
+    padding: 20px;
+    text-align: center;
+    letter-spacing: 1.2px;
+}
+.para9{
+    padding: 20px;
+    text-align: center;
+    letter-spacing: 1.2px;
+}
+.para10{
+    padding: 20px;
+    text-align: center;
+    letter-spacing: 1.2px;
+}
+.para11{
+    padding: 20px;
+    text-align: center;
+    letter-spacing: 1.2px;
+}
+.para12{
+    padding: 20px;
+    text-align: center;
+    letter-spacing: 1.2px;
+}
+.para13{
+    padding: 20px;
+    text-align: center;
+    letter-spacing: 1.2px;
+}
